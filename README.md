@@ -1,4 +1,4 @@
-# NBA_Injury_Predictions
+# NBA Injury Predictions
 This study explores the prediction of NBA injuries and their impact on player performance during the 2010-2018 seasons,
 utilizing two main datasets: annual player statistics and an injury table. Injuries are classified into four types of injuries,
 distinguishing between serious, mild, and minor. Employing a Naïve Bayes algorithm, injury prediction achieved a 65.2% accuracy rate
